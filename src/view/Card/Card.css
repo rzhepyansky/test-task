@@ -1,0 +1,44 @@
+.card {
+    width: 250px;
+    height: 175px;
+    background: #9f9f9f;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.card__options {
+    margin-bottom: 10px;
+}
+
+.card__options h2 {
+    margin-bottom: 10px;
+}
+
+.card__options p {
+    margin-bottom: 5px;
+}
+
+.card__btns {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.delete-btn {
+    cursor: pointer;
+    background: transparent;
+    border: none;
+    margin-right: 5px;
+}
+
+.edit-btn {
+    cursor: pointer;
+    background: transparent;
+    border: none;
+    margin-right: 5px;
+}
+
+.map-btn {
+    cursor: pointer;
+    background: transparent;
+    border: none;
+}

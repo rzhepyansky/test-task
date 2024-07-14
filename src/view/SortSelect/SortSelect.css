@@ -1,0 +1,14 @@
+.select-wrapper div {
+    color: #9f9f9f;
+    margin-bottom: 5px;
+    font-size: 14px;
+}
+
+#select-form {
+    background: transparent;
+    width: 200px;
+    height: 30px;
+    border-radius: 5px;
+    color: #9f9f9f;
+    font-size: 14px;
+}
